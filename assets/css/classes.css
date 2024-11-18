@@ -1,0 +1,27 @@
+.main-bg {
+    height: 100vh;
+    background-image: url('../img/main-bg.svg');
+    background-size: cover;
+    background-position: center;
+    color: var(white-color)
+    
+}
+
+.white-bg {
+    background-color: white;
+}
+
+.main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: var(--gap);
+}
+
+.section {
+    min-height: 100wh;
+
+}
+
+.menu-spacing {
+    height: 65px;
+}
